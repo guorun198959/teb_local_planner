@@ -237,6 +237,7 @@ void TebLocalPlannerROS::peakViaPoint(double localGoal_x, double localGoal_y,
     //  ROS_INFO("The Distance is %f",max_dist);
      //cfg_.hcp.enable_multithreading=false;
     // cfg_.hcp.max_number_classes=false;
+      //TODO
      }
      else
 {
